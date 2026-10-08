@@ -1,0 +1,75 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "landingPage": "/",
+  "login": false,
+  "preferredVersions": {
+    "php": "8.3",
+    "wp": "latest"
+  },
+  "features": {
+    "networking": true
+  },
+  "steps": [
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "wordpress.org/plugins",
+        "slug": "woocommerce"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/salvatorewanjohi-a11y/moti-motors-demo/main/motimotors.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "unzip",
+      "zipFile": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/salvatorewanjohi-a11y/moti-motors-demo/main/images.zip"
+      },
+      "extractToPath": "/wordpress"
+    },
+    {
+      "step": "mkdir",
+      "path": "/wordpress/mm-src"
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/mm-src/setup.php",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/salvatorewanjohi-a11y/moti-motors-demo/main/setup.php"
+      }
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/mm-src/products.json",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/salvatorewanjohi-a11y/moti-motors-demo/main/products.json"
+      }
+    },
+    {
+      "step": "mkdir",
+      "path": "/wordpress/wp-content/mu-plugins"
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/mu-plugins/mm-storefront.php",
+      "data": "<?php\n// Shop demo link: show the store as a customer sees it.\nadd_filter( 'show_admin_bar', '__return_false' );\n"
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/mm-src/setup.php';"
+    }
+  ]
+}

@@ -1,0 +1,1234 @@
+[
+	{
+		"slug": "2010-subaru-legacy-touring-wagon",
+		"name": "2010 Subaru Legacy Touring Wagon",
+		"brand": "Subaru",
+		"cat": [
+			"saloon"
+		],
+		"price": 850000,
+		"year": 2010,
+		"cc": 2500,
+		"ready": false,
+		"listed": "2026-10-08",
+		"arrived": true,
+		"featured": true,
+		"badge": "2,500cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2010\nEngine: 2,500cc\nFuel: Petrol\nTransmission: Automatic\nBody: Estate\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2010 Subaru Legacy Touring Wagon in silver: 2,500cc petrol, automatic. Financing available.</p><h3>Highlights</h3><ul><li>Estate body with a big boot</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,500cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/DeOX3p5NwKz/",
+		"views": 1187,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 7,
+		"order": 0
+	},
+	{
+		"slug": "2009-volkswagen-tiguan",
+		"name": "2009 Volkswagen Tiguan",
+		"brand": "Volkswagen",
+		"cat": [
+			"suv"
+		],
+		"price": 1020000,
+		"year": 2009,
+		"cc": 2000,
+		"ready": true,
+		"listed": "2026-10-07",
+		"arrived": true,
+		"featured": true,
+		"badge": "2,000cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2009\nEngine: 2,000cc\nFuel: Petrol\nTransmission: Automatic\nDrive: 4MOTION all-wheel drive\nBody: SUV / crossover\nColour: White\nMileage: Ask us for a dashboard photo\nDocuments: Ready transfer: all documents available\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2009 Volkswagen Tiguan in white: 2,000cc petrol, automatic, 4MOTION all-wheel drive. Financing available.</p><blockquote><p>German engineering meets SUV capability! The 2009 Volkswagen Tiguan combines a powerful 2000cc engine with Volkswagen’s 4MOTION all-wheel-drive system, giving you comfort, stability and versatility for everyday driving and weekend adventures.</p></blockquote><h3>Highlights</h3><ul><li>4MOTION all-wheel drive</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,000cc · Petrol · Automatic · 4MOTION all-wheel drive</p>",
+		"ig": "https://www.instagram.com/reel/DeL0NH6NZWR/",
+		"views": 2529,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": "AWD"
+		},
+		"photos": 6,
+		"order": 1
+	},
+	{
+		"slug": "1996-honda-cr-v",
+		"name": "1996 Honda CR-V",
+		"brand": "Honda",
+		"cat": [
+			"suv"
+		],
+		"price": 580000,
+		"year": 1996,
+		"cc": 2000,
+		"ready": false,
+		"listed": "2026-10-07",
+		"arrived": true,
+		"featured": true,
+		"badge": "2,000cc · Petrol",
+		"specs": "Year of manufacture: 1996\nEngine: 2,000cc\nFuel: Petrol\nTransmission: Ask us\nBody: SUV / crossover\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 1996 Honda CR-V in silver: 2,000cc petrol. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,000cc · Petrol</p>",
+		"ig": "https://www.instagram.com/reel/DeLtXg8trth/",
+		"views": 1150,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "",
+			"drive": ""
+		},
+		"photos": 7,
+		"order": 2
+	},
+	{
+		"slug": "2010-mercedes-benz-e-200",
+		"name": "2010 Mercedes-Benz E 200",
+		"brand": "Mercedes-Benz",
+		"cat": [
+			"saloon"
+		],
+		"price": 1500000,
+		"year": 2010,
+		"cc": 1800,
+		"ready": false,
+		"listed": "2026-10-06",
+		"arrived": true,
+		"featured": true,
+		"badge": "1,800cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2010\nEngine: 1,800cc\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Grey, beige interior\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2010 Mercedes-Benz E 200 in grey: 1,800cc petrol, automatic. Financing available.</p><h3>Highlights</h3><ul><li>Beige leather interior</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>1,800cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/DeKaFI5tp-M/",
+		"views": 2402,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 7,
+		"order": 3
+	},
+	{
+		"slug": "2016-toyota-hilux-double-cab",
+		"name": "2016 Toyota Hilux Double Cab",
+		"brand": "Toyota",
+		"cat": [
+			"utility"
+		],
+		"price": 3300000,
+		"year": 2016,
+		"cc": 2500,
+		"ready": false,
+		"listed": "2026-10-06",
+		"arrived": true,
+		"featured": true,
+		"badge": "2,500cc · Diesel",
+		"specs": "Year of manufacture: 2016\nEngine: 2,500cc\nFuel: Diesel\nTransmission: Ask us\nBody: Double-cab pickup\nColour: Grey\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2016 Toyota Hilux Double Cab in grey: 2,500cc diesel. Financing available.</p><h3>Highlights</h3><ul><li>Double cabin</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,500cc · Diesel</p>",
+		"ig": "https://www.instagram.com/reel/DeKWVQvt_zq/",
+		"views": 1605,
+		"f": {
+			"fuel": "Diesel",
+			"transmission": "",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 4
+	},
+	{
+		"slug": "2009-toyota-vellfire",
+		"name": "2009 Toyota Vellfire",
+		"brand": "Toyota",
+		"cat": [
+			"utility"
+		],
+		"price": 850000,
+		"year": 2009,
+		"cc": 2400,
+		"ready": true,
+		"listed": "2026-10-06",
+		"arrived": true,
+		"featured": true,
+		"badge": "2,400cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2009\nEngine: 2,400cc\nFuel: Petrol\nTransmission: Automatic\nSeats: 7\nBody: MPV\nColour: White, beige interior\nMileage: Ask us for a dashboard photo\nDocuments: Ready transfer: all documents available\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2009 Toyota Vellfire in white: 2,400cc petrol, automatic. Financing available.</p><blockquote><p>Luxury. Space. Comfort. The 2009 Toyota Vellfire delivers premium comfort, generous cabin space and Toyota reliability, making it an excellent choice for family trips and everyday driving.</p></blockquote><h3>Highlights</h3><ul><li>7 seats</li><li>Power sliding doors</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,400cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/DeKS-gjNnUB/",
+		"views": 2698,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 5
+	},
+	{
+		"slug": "mitsubishi-pajero-shogun-2-door",
+		"name": "Mitsubishi Pajero Shogun 2-Door",
+		"brand": "Mitsubishi",
+		"cat": [
+			"suv"
+		],
+		"price": 805000,
+		"year": "",
+		"cc": 3000,
+		"ready": true,
+		"listed": "2026-10-06",
+		"arrived": true,
+		"featured": true,
+		"badge": "3,000cc · Diesel · Auto",
+		"specs": "Year of manufacture: Ask us\nEngine: 3,000cc\nFuel: Diesel\nTransmission: Automatic\nDrive: 4WD\nBody: SUV / crossover\nColour: White\nMileage: Ask us for a dashboard photo\nDocuments: Ready transfer: all documents available\nFinancing: Available: ask us to apply",
+		"desc": "<p>The Mitsubishi Pajero Shogun 2-Door in white: 3,000cc diesel, automatic, 4WD. Financing available.</p><blockquote><p>Compact. Tough. Unstoppable. The Mitsubishi Pajero Shogun 2-Door combines diesel power, automatic convenience and 4WD capability in a rugged package built to handle both everyday roads and challenging terrain.</p></blockquote><h3>Highlights</h3><ul><li>4WD</li><li>2-door compact SUV</li><li>Excellent off-road ability</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>3,000cc · Diesel · Automatic · 4WD</p>",
+		"ig": "https://www.instagram.com/reel/DeKIQk-tt5a/",
+		"views": 7062,
+		"f": {
+			"fuel": "Diesel",
+			"transmission": "Automatic",
+			"drive": "4WD"
+		},
+		"photos": 6,
+		"order": 6
+	},
+	{
+		"slug": "2013-volkswagen-touareg-hybrid",
+		"name": "2013 Volkswagen Touareg Hybrid",
+		"brand": "Volkswagen",
+		"cat": [
+			"suv"
+		],
+		"price": 3000000,
+		"year": 2013,
+		"cc": 3000,
+		"ready": false,
+		"listed": "2026-10-06",
+		"arrived": true,
+		"featured": true,
+		"badge": "3,000cc · Hybrid · Auto",
+		"specs": "Year of manufacture: 2013\nEngine: 3,000cc\nFuel: Petrol hybrid\nTransmission: Automatic\nDrive: 4MOTION all-wheel drive\nBody: SUV / crossover\nColour: Black, black leather\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2013 Volkswagen Touareg Hybrid in black: 3,000cc petrol hybrid, automatic, 4MOTION all-wheel drive. Financing available.</p><h3>Highlights</h3><ul><li>Petrol-electric hybrid</li><li>Leather seats</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>3,000cc · Hybrid · Automatic · 4MOTION all-wheel drive</p>",
+		"ig": "https://www.instagram.com/reel/DeJhuEeNs2E/",
+		"views": 1860,
+		"f": {
+			"fuel": "Hybrid",
+			"transmission": "Automatic",
+			"drive": "AWD"
+		},
+		"photos": 7,
+		"order": 7
+	},
+	{
+		"slug": "2009-subaru-forester",
+		"name": "2009 Subaru Forester",
+		"brand": "Subaru",
+		"cat": [
+			"suv"
+		],
+		"price": 1250000,
+		"year": 2009,
+		"cc": 2000,
+		"ready": false,
+		"listed": "2026-10-06",
+		"arrived": true,
+		"featured": true,
+		"badge": "2,000cc · Petrol",
+		"specs": "Year of manufacture: 2009\nEngine: 2,000cc\nFuel: Petrol\nTransmission: Ask us\nDrive: Symmetrical all-wheel drive\nBody: SUV / crossover\nColour: Black\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2009 Subaru Forester in black: 2,000cc petrol, Symmetrical all-wheel drive. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,000cc · Petrol · Symmetrical all-wheel drive</p>",
+		"ig": "https://www.instagram.com/reel/DeJWsI_N_P_/",
+		"views": 2497,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "",
+			"drive": "AWD"
+		},
+		"photos": 6,
+		"order": 8
+	},
+	{
+		"slug": "2011-mercedes-benz-c-200",
+		"name": "2011 Mercedes-Benz C 200",
+		"brand": "Mercedes-Benz",
+		"cat": [
+			"saloon"
+		],
+		"price": 1400000,
+		"year": 2011,
+		"cc": "",
+		"ready": false,
+		"listed": "2026-10-06",
+		"arrived": true,
+		"featured": true,
+		"badge": "Petrol · Auto",
+		"specs": "Year of manufacture: 2011\nEngine: Ask us\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Blue\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2011 Mercedes-Benz C 200 in blue: petrol, automatic. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/DeJWasENFPT/",
+		"views": 1844,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 7,
+		"order": 9
+	},
+	{
+		"slug": "2014-mazda-cx-5-diesel",
+		"name": "2014 Mazda CX-5 Diesel",
+		"brand": "Mazda",
+		"cat": [
+			"suv"
+		],
+		"price": 1630000,
+		"year": 2014,
+		"cc": 2200,
+		"ready": false,
+		"listed": "2026-10-06",
+		"arrived": true,
+		"featured": true,
+		"badge": "2,200cc · Diesel · Auto",
+		"specs": "Year of manufacture: 2014\nEngine: 2,200cc\nFuel: Diesel\nTransmission: Automatic\nBody: SUV / crossover\nColour: Red\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2014 Mazda CX-5 Diesel in red: 2,200cc diesel, automatic. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,200cc · Diesel · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/DeI-wGwtBng/",
+		"views": 1882,
+		"f": {
+			"fuel": "Diesel",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 10
+	},
+	{
+		"slug": "2014-mazda-demio-diesel",
+		"name": "2014 Mazda Demio Diesel",
+		"brand": "Mazda",
+		"cat": [
+			"hatch"
+		],
+		"price": 750000,
+		"year": 2014,
+		"cc": 1500,
+		"ready": false,
+		"listed": "2026-10-05",
+		"arrived": false,
+		"featured": true,
+		"badge": "1,500cc · Diesel",
+		"specs": "Year of manufacture: 2014\nEngine: 1,500cc\nFuel: Diesel\nTransmission: Ask us\nBody: Hatchback\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2014 Mazda Demio Diesel in silver: 1,500cc diesel. Financing available.</p><h3>Highlights</h3><ul><li>Diesel: very low running costs</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>1,500cc · Diesel</p>",
+		"ig": "https://www.instagram.com/reel/DeGsTjGNihT/",
+		"views": 4610,
+		"f": {
+			"fuel": "Diesel",
+			"transmission": "",
+			"drive": ""
+		},
+		"photos": 5,
+		"order": 11
+	},
+	{
+		"slug": "2014-subaru-forester-xt",
+		"name": "2014 Subaru Forester XT",
+		"brand": "Subaru",
+		"cat": [
+			"suv"
+		],
+		"price": 1850000,
+		"year": 2014,
+		"cc": 2000,
+		"ready": false,
+		"listed": "2026-10-02",
+		"arrived": false,
+		"featured": true,
+		"badge": "2,000cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2014\nEngine: 2,000cc\nFuel: Petrol\nTransmission: Automatic\nDrive: Symmetrical all-wheel drive\nBody: SUV / crossover\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2014 Subaru Forester XT in silver: 2,000cc petrol, automatic, Symmetrical all-wheel drive. Financing available.</p><h3>Highlights</h3><ul><li>XT turbo</li><li>Sunroof</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,000cc · Petrol · Automatic · Symmetrical all-wheel drive</p>",
+		"ig": "https://www.instagram.com/reel/Dd_cr6wNzZX/",
+		"views": 3143,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": "AWD"
+		},
+		"photos": 7,
+		"order": 12
+	},
+	{
+		"slug": "2015-subaru-forester",
+		"name": "2015 Subaru Forester",
+		"brand": "Subaru",
+		"cat": [
+			"suv"
+		],
+		"price": 1980000,
+		"year": 2015,
+		"cc": 2000,
+		"ready": false,
+		"listed": "2026-10-02",
+		"arrived": false,
+		"featured": true,
+		"badge": "2,000cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2015\nEngine: 2,000cc\nFuel: Petrol\nTransmission: Automatic\nDrive: Symmetrical all-wheel drive\nBody: SUV / crossover\nColour: White\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2015 Subaru Forester in white: 2,000cc petrol, automatic, Symmetrical all-wheel drive. Financing available.</p><h3>Highlights</h3><ul><li>Non-turbo</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,000cc · Petrol · Automatic · Symmetrical all-wheel drive</p>",
+		"ig": "https://www.instagram.com/reel/Dd_IWQtN4tV/",
+		"views": 2655,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": "AWD"
+		},
+		"photos": 7,
+		"order": 13
+	},
+	{
+		"slug": "2010-nissan-x-trail-nt31",
+		"name": "2010 Nissan X-Trail (NT31)",
+		"brand": "Nissan",
+		"cat": [
+			"suv"
+		],
+		"price": 820000,
+		"year": 2010,
+		"cc": 2000,
+		"ready": false,
+		"listed": "2026-10-01",
+		"arrived": false,
+		"featured": true,
+		"badge": "2,000cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2010\nEngine: 2,000cc\nFuel: Petrol\nTransmission: Automatic\nDrive: 4WD\nBody: SUV / crossover\nColour: Black\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2010 Nissan X-Trail (NT31) in black: 2,000cc petrol, automatic, 4WD. Financing available.</p><h3>Highlights</h3><ul><li>4WD</li><li>Leather seats</li><li>Heated seats</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,000cc · Petrol · Automatic · 4WD</p>",
+		"ig": "https://www.instagram.com/reel/Dd98BuoNe0g/",
+		"views": 2134,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": "4WD"
+		},
+		"photos": 6,
+		"order": 14
+	},
+	{
+		"slug": "2009-toyota-harrier",
+		"name": "2009 Toyota Harrier",
+		"brand": "Toyota",
+		"cat": [
+			"suv"
+		],
+		"price": 1450000,
+		"year": 2009,
+		"cc": 2400,
+		"ready": true,
+		"listed": "2026-10-01",
+		"arrived": false,
+		"featured": true,
+		"badge": "2,400cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2009\nEngine: 2,400cc\nFuel: Petrol\nTransmission: Automatic\nBody: SUV / crossover\nColour: Pearl white, black leather\nMileage: Ask us for a dashboard photo\nDocuments: Ready transfer: all documents available\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2009 Toyota Harrier in pearl white: 2,400cc petrol, automatic. Financing available.</p><blockquote><p>Clean. Classy. Comfortable. The Toyota Harrier brings together premium comfort, elegant styling and a refined driving experience, complete with a sunroof and leather interior for that extra touch of luxury.</p></blockquote><h3>Highlights</h3><ul><li>Sunroof</li><li>Leather seats</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,400cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd9I-9rN4vS/",
+		"views": 3022,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 7,
+		"order": 15
+	},
+	{
+		"slug": "2015-mercedes-benz-c-200",
+		"name": "2015 Mercedes-Benz C 200",
+		"brand": "Mercedes-Benz",
+		"cat": [
+			"saloon"
+		],
+		"price": 2980000,
+		"year": 2015,
+		"cc": 2000,
+		"ready": false,
+		"listed": "2026-10-01",
+		"arrived": false,
+		"featured": true,
+		"badge": "2,000cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2015\nEngine: 2,000cc\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: White, black leather\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2015 Mercedes-Benz C 200 in white: 2,000cc petrol, automatic. Financing available.</p><h3>Highlights</h3><ul><li>Leather seats</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,000cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd8qxv8tLEB/",
+		"views": 3056,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 16
+	},
+	{
+		"slug": "2017-mercedes-benz-a-180",
+		"name": "2017 Mercedes-Benz A 180",
+		"brand": "Mercedes-Benz",
+		"cat": [
+			"hatch"
+		],
+		"price": 2150000,
+		"year": 2017,
+		"cc": 1600,
+		"ready": false,
+		"listed": "2026-10-01",
+		"arrived": false,
+		"featured": true,
+		"badge": "1,600cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2017\nEngine: 1,600cc\nFuel: Petrol\nTransmission: Automatic\nBody: Hatchback\nColour: Gold\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2017 Mercedes-Benz A 180 in gold: 1,600cc petrol, automatic. Financing available.</p><h3>Highlights</h3><ul><li>Sunroof</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>1,600cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd8nkMKtkLX/",
+		"views": 4165,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 7,
+		"order": 17
+	},
+	{
+		"slug": "1998-mercedes-benz-e-200",
+		"name": "1998 Mercedes-Benz E 200",
+		"brand": "Mercedes-Benz",
+		"cat": [
+			"saloon"
+		],
+		"price": 575000,
+		"year": 1998,
+		"cc": 2000,
+		"ready": false,
+		"listed": "2026-09-30",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,000cc · Petrol · Auto",
+		"specs": "Year of manufacture: 1998\nEngine: 2,000cc\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 1998 Mercedes-Benz E 200 in silver: 2,000cc petrol, automatic. Financing available.</p><h3>Highlights</h3><ul><li>Walnut trim</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,000cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd7dCOItYBD/",
+		"views": 9400,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 18
+	},
+	{
+		"slug": "2008-volkswagen-touareg-diesel",
+		"name": "2008 Volkswagen Touareg Diesel",
+		"brand": "Volkswagen",
+		"cat": [
+			"suv"
+		],
+		"price": 1350000,
+		"year": 2008,
+		"cc": 2500,
+		"ready": false,
+		"listed": "2026-09-30",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,500cc · Diesel · Auto",
+		"specs": "Year of manufacture: 2008\nEngine: 2,500cc\nFuel: Diesel\nTransmission: Automatic\nDrive: 4MOTION all-wheel drive\nBody: SUV / crossover\nColour: Silver, black leather\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2008 Volkswagen Touareg Diesel in silver: 2,500cc diesel, automatic, 4MOTION all-wheel drive. Financing available.</p><h3>Highlights</h3><ul><li>Leather seats</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,500cc · Diesel · Automatic · 4MOTION all-wheel drive</p>",
+		"ig": "https://www.instagram.com/reel/Dd7bN8rNQ2B/",
+		"views": 2022,
+		"f": {
+			"fuel": "Diesel",
+			"transmission": "Automatic",
+			"drive": "AWD"
+		},
+		"photos": 6,
+		"order": 19
+	},
+	{
+		"slug": "2009-toyota-crown-royal-saloon",
+		"name": "2009 Toyota Crown Royal Saloon",
+		"brand": "Toyota",
+		"cat": [
+			"saloon"
+		],
+		"price": 1150000,
+		"year": 2009,
+		"cc": 2500,
+		"ready": false,
+		"listed": "2026-09-30",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,500cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2009\nEngine: 2,500cc\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Black, grey interior\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2009 Toyota Crown Royal Saloon in black: 2,500cc petrol, automatic. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,500cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd7ady1Nl0p/",
+		"views": 1509,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 20
+	},
+	{
+		"slug": "2019-audi-q2",
+		"name": "2019 Audi Q2",
+		"brand": "Audi",
+		"cat": [
+			"suv"
+		],
+		"price": 2350000,
+		"year": 2019,
+		"cc": 1000,
+		"ready": false,
+		"listed": "2026-09-29",
+		"arrived": false,
+		"featured": false,
+		"badge": "1,000cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2019\nEngine: 1,000cc\nFuel: Petrol\nTransmission: Automatic\nBody: SUV / crossover\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2019 Audi Q2 in silver: 1,000cc petrol, automatic. Financing available.</p><h3>Highlights</h3><ul><li>Digital driver display</li><li>1.0 TFSI turbo: easy on fuel</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>1,000cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd4toYTtva0/",
+		"views": 2763,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 8,
+		"order": 21
+	},
+	{
+		"slug": "2014-volkswagen-polo-saloon",
+		"name": "2014 Volkswagen Polo Saloon",
+		"brand": "Volkswagen",
+		"cat": [
+			"saloon"
+		],
+		"price": 970000,
+		"year": 2014,
+		"cc": 1400,
+		"ready": false,
+		"listed": "2026-09-30",
+		"arrived": false,
+		"featured": false,
+		"badge": "1,400cc · Petrol",
+		"specs": "Year of manufacture: 2014\nEngine: 1,400cc\nFuel: Petrol\nTransmission: Ask us\nBody: Saloon\nColour: Red\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2014 Volkswagen Polo Saloon in red: 1,400cc petrol. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>1,400cc · Petrol</p>",
+		"ig": "https://www.instagram.com/reel/Dd7QIpst14j/",
+		"views": 1224,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 22
+	},
+	{
+		"slug": "2011-mazda-demio",
+		"name": "2011 Mazda Demio",
+		"brand": "Mazda",
+		"cat": [
+			"hatch"
+		],
+		"price": 580000,
+		"year": 2011,
+		"cc": 1300,
+		"ready": false,
+		"listed": "2026-09-30",
+		"arrived": false,
+		"featured": false,
+		"badge": "1,300cc · Petrol",
+		"specs": "Year of manufacture: 2011\nEngine: 1,300cc\nFuel: Petrol\nTransmission: Ask us\nBody: Hatchback\nColour: Red\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2011 Mazda Demio in red: 1,300cc petrol. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>1,300cc · Petrol</p>",
+		"ig": "https://www.instagram.com/reel/Dd7NV8ztJDO/",
+		"views": 1592,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 23
+	},
+	{
+		"slug": "2013-honda-fit-hybrid",
+		"name": "2013 Honda Fit Hybrid",
+		"brand": "Honda",
+		"cat": [
+			"hatch"
+		],
+		"price": 980000,
+		"year": 2013,
+		"cc": "",
+		"ready": false,
+		"listed": "2026-09-30",
+		"arrived": false,
+		"featured": false,
+		"badge": "Hybrid · Auto",
+		"specs": "Year of manufacture: 2013\nEngine: Ask us\nFuel: Petrol hybrid\nTransmission: Automatic\nBody: Hatchback\nColour: Blue\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2013 Honda Fit Hybrid in blue: petrol hybrid, automatic. Financing available.</p><h3>Highlights</h3><ul><li>Petrol-electric hybrid</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>Hybrid · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd68NS5tIC0/",
+		"views": 2124,
+		"f": {
+			"fuel": "Hybrid",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 24
+	},
+	{
+		"slug": "2018-mazda-cx-5-diesel",
+		"name": "2018 Mazda CX-5 Diesel",
+		"brand": "Mazda",
+		"cat": [
+			"suv"
+		],
+		"price": 2650000,
+		"year": 2018,
+		"cc": 2200,
+		"ready": false,
+		"listed": "2026-09-30",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,200cc · Diesel · Auto",
+		"specs": "Year of manufacture: 2018\nEngine: 2,200cc\nFuel: Diesel\nTransmission: Automatic\nBody: SUV / crossover\nColour: White\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2018 Mazda CX-5 Diesel in white: 2,200cc diesel, automatic. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,200cc · Diesel · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd6paWAt7Sf/",
+		"views": 3246,
+		"f": {
+			"fuel": "Diesel",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 25
+	},
+	{
+		"slug": "2010-toyota-mark-x",
+		"name": "2010 Toyota Mark X",
+		"brand": "Toyota",
+		"cat": [
+			"saloon"
+		],
+		"price": 980000,
+		"year": 2010,
+		"cc": 2500,
+		"ready": false,
+		"listed": "2026-09-30",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,500cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2010\nEngine: 2,500cc\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: White, beige interior\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2010 Toyota Mark X in white: 2,500cc petrol, automatic. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,500cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd6JekEtl3o/",
+		"views": 2141,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 7,
+		"order": 26
+	},
+	{
+		"slug": "2006-toyota-rav4",
+		"name": "2006 Toyota RAV4",
+		"brand": "Toyota",
+		"cat": [
+			"suv"
+		],
+		"price": 650000,
+		"year": 2006,
+		"cc": "",
+		"ready": false,
+		"listed": "2026-09-29",
+		"arrived": false,
+		"featured": false,
+		"badge": "Petrol",
+		"specs": "Year of manufacture: 2006\nEngine: Ask us\nFuel: Petrol\nTransmission: Ask us\nBody: SUV / crossover\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2006 Toyota RAV4 in silver: petrol. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>Petrol</p>",
+		"ig": "https://www.instagram.com/reel/Dd4LziMNdpX/",
+		"views": 65718,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 27
+	},
+	{
+		"slug": "2006-volkswagen-polo",
+		"name": "2006 Volkswagen Polo",
+		"brand": "Volkswagen",
+		"cat": [
+			"hatch"
+		],
+		"price": 520000,
+		"year": 2006,
+		"cc": 1400,
+		"ready": false,
+		"listed": "2026-09-29",
+		"arrived": false,
+		"featured": false,
+		"badge": "1,400cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2006\nEngine: 1,400cc\nFuel: Petrol\nTransmission: Automatic\nBody: Hatchback\nColour: Red\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2006 Volkswagen Polo in red: 1,400cc petrol, automatic. Financing available.</p><h3>Highlights</h3><ul><li>Clean and well maintained</li><li>Comfortable and economical</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>1,400cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd38RB0tt_A/",
+		"views": 3430,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 28
+	},
+	{
+		"slug": "2012-mercedes-benz-c-200",
+		"name": "2012 Mercedes-Benz C 200",
+		"brand": "Mercedes-Benz",
+		"cat": [
+			"saloon"
+		],
+		"price": 1550000,
+		"year": 2012,
+		"cc": 1800,
+		"ready": false,
+		"listed": "2026-09-29",
+		"arrived": false,
+		"featured": false,
+		"badge": "1,800cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2012\nEngine: 1,800cc\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2012 Mercedes-Benz C 200 in silver: 1,800cc petrol, automatic. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>1,800cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd3dtIjNNjw/",
+		"views": 3094,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 29
+	},
+	{
+		"slug": "2018-nissan-note-e-power",
+		"name": "2018 Nissan Note e-Power",
+		"brand": "Nissan",
+		"cat": [
+			"hatch"
+		],
+		"price": 1020000,
+		"year": 2018,
+		"cc": "",
+		"ready": false,
+		"listed": "2026-09-29",
+		"arrived": false,
+		"featured": false,
+		"badge": "Hybrid · Auto",
+		"specs": "Year of manufacture: 2018\nEngine: Ask us\nFuel: Petrol hybrid\nTransmission: Automatic\nBody: Hatchback\nColour: Maroon\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2018 Nissan Note e-Power in maroon: petrol hybrid, automatic. Financing available.</p><h3>Highlights</h3><ul><li>e-Power: petrol generator drives an electric motor</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>Hybrid · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd3Qig7N2uo/",
+		"views": 3768,
+		"f": {
+			"fuel": "Hybrid",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 30
+	},
+	{
+		"slug": "2012-nissan-fuga",
+		"name": "2012 Nissan Fuga",
+		"brand": "Nissan",
+		"cat": [
+			"saloon"
+		],
+		"price": 890000,
+		"year": 2012,
+		"cc": 2500,
+		"ready": false,
+		"listed": "2026-09-29",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,500cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2012\nEngine: 2,500cc\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Silver, brown & black interior\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2012 Nissan Fuga in silver: 2,500cc petrol, automatic. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,500cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd3JwJSNI5B/",
+		"views": 4547,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 31
+	},
+	{
+		"slug": "2007-toyota-crown-royal-saloon",
+		"name": "2007 Toyota Crown Royal Saloon",
+		"brand": "Toyota",
+		"cat": [
+			"saloon"
+		],
+		"price": 800000,
+		"year": 2007,
+		"cc": 2500,
+		"ready": false,
+		"listed": "2026-09-28",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,500cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2007\nEngine: 2,500cc\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Black, grey interior\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2007 Toyota Crown Royal Saloon in black: 2,500cc petrol, automatic. Financing available.</p><h3>Highlights</h3><ul><li>Executive trim</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,500cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Dd1l2xpNPQU/",
+		"views": 3366,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 32
+	},
+	{
+		"slug": "2012-nissan-note",
+		"name": "2012 Nissan Note",
+		"brand": "Nissan",
+		"cat": [
+			"hatch"
+		],
+		"price": 650000,
+		"year": 2012,
+		"cc": "",
+		"ready": false,
+		"listed": "2026-09-26",
+		"arrived": false,
+		"featured": false,
+		"badge": "Petrol",
+		"specs": "Year of manufacture: 2012\nEngine: Ask us\nFuel: Petrol\nTransmission: Ask us\nBody: Hatchback\nColour: White\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2012 Nissan Note in white: petrol. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>Petrol</p>",
+		"ig": "https://www.instagram.com/reel/DdvaHxDtO4J/",
+		"views": 2758,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 33
+	},
+	{
+		"slug": "2009-bmw-x3",
+		"name": "2009 BMW X3",
+		"brand": "BMW",
+		"cat": [
+			"suv"
+		],
+		"price": 1150000,
+		"year": 2009,
+		"cc": 2500,
+		"ready": false,
+		"listed": "2026-09-26",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,500cc · Petrol",
+		"specs": "Year of manufacture: 2009\nEngine: 2,500cc\nFuel: Petrol\nTransmission: Ask us\nDrive: xDrive all-wheel drive\nBody: SUV / crossover\nColour: Black\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2009 BMW X3 in black: 2,500cc petrol, xDrive all-wheel drive. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,500cc · Petrol · xDrive all-wheel drive</p>",
+		"ig": "https://www.instagram.com/reel/DdvLe8sKmKa/",
+		"views": 5941,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "",
+			"drive": "AWD"
+		},
+		"photos": 6,
+		"order": 34
+	},
+	{
+		"slug": "2010-bmw-320i",
+		"name": "2010 BMW 320i",
+		"brand": "BMW",
+		"cat": [
+			"saloon"
+		],
+		"price": 830000,
+		"year": 2010,
+		"cc": "",
+		"ready": false,
+		"listed": "2026-09-25",
+		"arrived": false,
+		"featured": false,
+		"badge": "Petrol · Auto",
+		"specs": "Year of manufacture: 2010\nEngine: Ask us\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Black\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2010 BMW 320i in black: petrol, automatic. Financing available.</p><blockquote><p>Sporty. Elegant. Pure BMW character! The 2010 BMW 320i combines sporty handling, refined comfort and unmistakable German styling, delivering an engaging executive-sedan experience.</p></blockquote><h3>Highlights</h3><ul><li>Price dropped from KSh 970,000</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/Ddt8H2-torZ/",
+		"views": 8834,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 35
+	},
+	{
+		"slug": "1998-mitsubishi-galant",
+		"name": "1998 Mitsubishi Galant",
+		"brand": "Mitsubishi",
+		"cat": [
+			"saloon"
+		],
+		"price": 320000,
+		"year": 1998,
+		"cc": "",
+		"ready": false,
+		"listed": "2026-09-25",
+		"arrived": false,
+		"featured": false,
+		"badge": "Petrol",
+		"specs": "Year of manufacture: 1998\nEngine: Ask us\nFuel: Petrol\nTransmission: Ask us\nBody: Saloon\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 1998 Mitsubishi Galant in silver: petrol. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>Petrol</p>",
+		"ig": "https://www.instagram.com/reel/Ddtjir3NMmH/",
+		"views": 123516,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 36
+	},
+	{
+		"slug": "2007-toyota-vanguard",
+		"name": "2007 Toyota Vanguard",
+		"brand": "Toyota",
+		"cat": [
+			"suv"
+		],
+		"price": 1150000,
+		"year": 2007,
+		"cc": 2400,
+		"ready": false,
+		"listed": "2026-09-25",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,400cc · Petrol",
+		"specs": "Year of manufacture: 2007\nEngine: 2,400cc\nFuel: Petrol\nTransmission: Ask us\nBody: SUV / crossover\nColour: Dark grey, beige interior\nMileage: Ask us for a dashboard photo\nDocuments: Ask us\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2007 Toyota Vanguard in dark grey: 2,400cc petrol. Financing available.</p><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,400cc · Petrol</p>",
+		"ig": "https://www.instagram.com/reel/DdtYfEcNh-8/",
+		"views": 6176,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 37
+	},
+	{
+		"slug": "2011-subaru-legacy",
+		"name": "2011 Subaru Legacy",
+		"brand": "Subaru",
+		"cat": [
+			"saloon"
+		],
+		"price": 990000,
+		"year": 2011,
+		"cc": 2500,
+		"ready": true,
+		"listed": "2026-09-25",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,500cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2011\nEngine: 2,500cc\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Black\nMileage: Ask us for a dashboard photo\nDocuments: Ready transfer: all documents available\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2011 Subaru Legacy in black: 2,500cc petrol, automatic. Financing available.</p><blockquote><p>Performance. Comfort. Reliability. The 2011 Subaru Legacy delivers a refined driving experience, impressive performance and excellent comfort, making it a great choice for everyday driving and long-distance journeys.</p></blockquote><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,500cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/DdsiHRUNVdI/",
+		"views": 4377,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 38
+	},
+	{
+		"slug": "2008-toyota-allion",
+		"name": "2008 Toyota Allion",
+		"brand": "Toyota",
+		"cat": [
+			"saloon"
+		],
+		"price": 860000,
+		"year": 2008,
+		"cc": 1800,
+		"ready": true,
+		"listed": "2026-09-24",
+		"arrived": false,
+		"featured": false,
+		"badge": "1,800cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2008\nEngine: 1,800cc\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ready transfer: all documents available\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2008 Toyota Allion in silver: 1,800cc petrol, automatic. Financing available.</p><blockquote><p>Reliable. Comfortable. Economical. The 2008 Toyota Allion offers a perfect balance of performance, comfort and fuel efficiency, making it a practical choice for everyday driving.</p></blockquote><h3>Highlights</h3><ul><li>Excellent fuel economy</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>1,800cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/DdrXvCZt9ML/",
+		"views": 7440,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 39
+	},
+	{
+		"slug": "2014-mitsubishi-pajero",
+		"name": "2014 Mitsubishi Pajero",
+		"brand": "Mitsubishi",
+		"cat": [
+			"suv"
+		],
+		"price": 1920000,
+		"year": 2014,
+		"cc": 2500,
+		"ready": true,
+		"listed": "2026-09-24",
+		"arrived": false,
+		"featured": false,
+		"badge": "2,500cc · Diesel · Manual",
+		"specs": "Year of manufacture: 2014\nEngine: 2,500cc\nFuel: Diesel\nTransmission: Manual\nDrive: 4x4\nBody: SUV / crossover\nColour: Silver\nMileage: Ask us for a dashboard photo\nDocuments: Ready transfer: all documents available\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2014 Mitsubishi Pajero in silver: 2,500cc diesel, manual, four-wheel drive. Financing available.</p><blockquote><p>Built Tough. Built to Explore. The Mitsubishi Pajero combines diesel power, rugged capability and everyday comfort, ready to take on city roads, highways and challenging terrain with confidence.</p></blockquote><h3>Highlights</h3><ul><li>Rugged 4x4</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>2,500cc · Diesel · Manual · 4x4</p>",
+		"ig": "https://www.instagram.com/reel/DdrVHIXNGYv/",
+		"views": 4889,
+		"f": {
+			"fuel": "Diesel",
+			"transmission": "Manual",
+			"drive": "4WD"
+		},
+		"photos": 6,
+		"order": 40
+	},
+	{
+		"slug": "2014-volkswagen-golf",
+		"name": "2014 Volkswagen Golf",
+		"brand": "Volkswagen",
+		"cat": [
+			"hatch"
+		],
+		"price": 1030000,
+		"year": 2014,
+		"cc": 1200,
+		"ready": true,
+		"listed": "2026-09-24",
+		"arrived": false,
+		"featured": false,
+		"badge": "1,200cc · Petrol · Auto",
+		"specs": "Year of manufacture: 2014\nEngine: 1,200cc\nFuel: Petrol\nTransmission: Automatic\nBody: Hatchback\nColour: Dark blue\nMileage: Ask us for a dashboard photo\nDocuments: Ready transfer: all documents available\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2014 Volkswagen Golf in dark blue: 1,200cc petrol, automatic. Financing available.</p><blockquote><p>Small. Stylish. Seriously Fun. The 2014 Volkswagen Golf delivers a great balance of fuel economy, comfort and sporty European styling, perfect for everyday driving with a premium feel.</p></blockquote><h3>Highlights</h3><ul><li>Fuel efficient TSI</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>1,200cc · Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/DdrCTHFNM7V/",
+		"views": 5923,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 7,
+		"order": 41
+	},
+	{
+		"slug": "2004-nissan-sunny-b15",
+		"name": "2004 Nissan Sunny (B15)",
+		"brand": "Nissan",
+		"cat": [
+			"saloon"
+		],
+		"price": 410000,
+		"year": 2004,
+		"cc": "",
+		"ready": true,
+		"listed": "2026-09-23",
+		"arrived": false,
+		"featured": false,
+		"badge": "Petrol · Auto",
+		"specs": "Year of manufacture: 2004\nEngine: Ask us\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: White\nMileage: Ask us for a dashboard photo\nDocuments: Ready transfer: all documents available\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2004 Nissan Sunny (B15) in white: petrol, automatic. Financing available.</p><blockquote><p>Affordable. Reliable. Practical! The Nissan B15 is a dependable everyday sedan offering comfortable driving, good fuel economy and affordable running costs, perfect for daily use.</p></blockquote><h3>Highlights</h3><ul><li>Affordable running costs</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/DdouCYTtew2/",
+		"views": 4476,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 42
+	},
+	{
+		"slug": "2014-mercedes-benz-e-250",
+		"name": "2014 Mercedes-Benz E 250",
+		"brand": "Mercedes-Benz",
+		"cat": [
+			"saloon"
+		],
+		"price": 2500000,
+		"year": 2014,
+		"cc": "",
+		"ready": true,
+		"listed": "2026-09-23",
+		"arrived": false,
+		"featured": false,
+		"badge": "Petrol · Auto",
+		"specs": "Year of manufacture: 2014\nEngine: Ask us\nFuel: Petrol\nTransmission: Automatic\nBody: Saloon\nColour: Black, beige leather\nMileage: Ask us for a dashboard photo\nDocuments: Ready transfer: all documents available\nFinancing: Available: ask us to apply",
+		"desc": "<p>The 2014 Mercedes-Benz E 250 in black: petrol, automatic. Financing available.</p><blockquote><p>Executive luxury, unmistakable Mercedes-Benz class! The 2014 E250 combines sophisticated styling, premium comfort and refined performance, delivering the elegance and presence expected from the E-Class.</p></blockquote><h3>Highlights</h3><ul><li>Beige leather interior</li></ul><p>Watch the full walk-around video on our Instagram, or ask us for more photos on WhatsApp.</p>",
+		"short": "<p>Petrol · Automatic</p>",
+		"ig": "https://www.instagram.com/reel/DdogosvNO2a/",
+		"views": 3630,
+		"f": {
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"drive": ""
+		},
+		"photos": 6,
+		"order": 43
+	}
+]
